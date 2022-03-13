@@ -1,0 +1,1 @@
+{"inputUnits":[2],"outputUnits":3,"inputs":{"k2":{"dtype":"number","min":0,"max":99},"k3":{"dtype":"number","min":0,"max":99}},"outputs":{"label":{"dtype":"string","min":0,"max":1,"uniqueValues":["b","e","d"],"legend":{"b":[1,0,0],"e":[0,1,0],"d":[0,0,1]}}},"isNormalized":true}

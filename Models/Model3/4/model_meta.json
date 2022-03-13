@@ -1,0 +1,1 @@
+{"inputUnits":[3],"outputUnits":5,"inputs":{"k1":{"dtype":"number","min":0,"max":100},"k2":{"dtype":"number","min":0,"max":100},"k4":{"dtype":"number","min":2,"max":100}},"outputs":{"label":{"dtype":"string","min":0,"max":1,"uniqueValues":["b","d","a","e","c"],"legend":{"b":[1,0,0,0,0],"d":[0,1,0,0,0],"a":[0,0,1,0,0],"e":[0,0,0,1,0],"c":[0,0,0,0,1]}}},"isNormalized":true}

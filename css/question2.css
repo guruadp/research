@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #eee;
+}
+
+.wrapper {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    width: 80%;
+}
+
+.heading {
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+input {
+    border-radius: 24px;
+    border: 1px solid black;
+    padding-left: 16px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    outline: 0;
+}
+
+.next {
+    background-color: transparent;
+    border: 1px solid black;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 24px;
+    outline: 0;
+}
+
+.next:hover {
+    background-color: #000;
+    color: #fff;
+    cursor: pointer;
+}
